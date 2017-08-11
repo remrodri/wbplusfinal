@@ -55,7 +55,7 @@ sudo rm /etc/nginx/sites-enabled/default
 ```
 15. Creamos un archivo de configuración en sites-available
 ```
-sudo nano /etc/nginx/sites-available/webumss
+sudo mcedit /etc/nginx/sites-available/webumss
 ```
 Con el siguiente contenido
 ```
