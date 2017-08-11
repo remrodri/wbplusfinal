@@ -77,3 +77,10 @@ sudo ln -s /etc/nginx/sites-available/webumss /etc/nginx/sites-enabled/webumss
 ```
 sudo service nginx restart
 ```
+EXTRA
+Otros comandos útiles
+```
+killall -9 node
+ssh -i ec2.pem ubuntu@ec2-23-22-122-111.compute-1.amazonaws.com
+```
+```
