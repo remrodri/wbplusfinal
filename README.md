@@ -11,3 +11,4 @@ Winter Bootcamp Plus
 ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 
 ⋅⋅⋅2.3 Una vez verificado, vuelva a la sección Correos o Emails y en Correo Electrónico Primario o Primary Email Adress seleccione el nuevo correo agregado (el correo electónico institucional) y presiona Guardar o Save. Actualiza la págian y verifica que el correo electrónico institucional esté marcado como primario.
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
